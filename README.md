@@ -48,4 +48,8 @@
 
 <br /><br /><br />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leosena777&layout=compact)
+### Projects
+
+<a href="https://github.com/leosena777/mcc-my-money-control">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=leosena777&repo=mcc-my-money-control" />
+</a>
