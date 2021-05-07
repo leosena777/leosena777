@@ -53,3 +53,7 @@
 <a href="https://github.com/leosena777/mcc-my-money-control">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=leosena777&repo=mcc-my-money-control" />
 </a>
+
+<a href="https://github.com/leosena777/github-repository-explorer">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=leosena777&repo=github-repository-explorer" />
+</a>
